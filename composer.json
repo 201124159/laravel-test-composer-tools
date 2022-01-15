@@ -1,5 +1,5 @@
 {
-    "name": "tutu/webconfig-test-for-laravel",
+    "name": "tutu-laravel-admin-ext/web-config-test",
     "description": "Web Config test extension for laravel-admin",
 	"license": "MIT",
     "keywords": ["laravel-admin", "setting"],

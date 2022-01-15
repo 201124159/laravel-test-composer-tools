@@ -1,0 +1,22 @@
+{
+    "name": "tutu/webconfig-test-for-laravel",
+    "authors": [
+        {
+            "name": "json",
+            "email": "mrs.gyg@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tutu\\WebConfig\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tutu\\WebConfig\\WebConfigServiceProvider"
+            ]
+        }
+    }
+}

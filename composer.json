@@ -19,11 +19,5 @@
                 "Tutu\\WebConfig\\WebConfigServiceProvider"
             ]
         }
-    },
-	"repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/201124159/laravel-admin-ext-web-config"
-        }
-    ],
+    }
 }

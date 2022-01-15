@@ -7,8 +7,6 @@
             "email": "mrs.gyg@qq.com"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {},
     "autoload": {
         "psr-4": {
@@ -21,5 +19,11 @@
                 "Tutu\\WebConfig\\WebConfigServiceProvider"
             ]
         }
-    }
+    },
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/201124159/laravel-admin-ext-web-config"
+        }
+    ],
 }
